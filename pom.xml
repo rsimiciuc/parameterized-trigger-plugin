@@ -17,8 +17,8 @@
 
     <artifactId>parameterized-trigger</artifactId>
     <packaging>hpi</packaging>
-    <version>2.26-SNAPSHOT</version>
-    <name>Jenkins Parameterized Trigger plugin</name>
+    <version>9.99</version>
+    <name>Jenkins Parameterized Trigger plugin - KING ADAPTED</name>
     <url>http://wiki.jenkins-ci.org/display/JENKINS/Parameterized+Trigger+Plugin</url>
 
     <developers>
@@ -29,6 +29,10 @@
       <developer>
           <id>kohsuke</id>
           <name>Kohsuke Kawaguchi</name>
+      </developer>
+      <developer>
+          <id>raul</id>
+          <name>Raul Simiciuc</name>
       </developer>
     </developers>
 
